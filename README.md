@@ -25,7 +25,7 @@ git clone https://github.com/t945935/make-ai-work-for-you-resources.git
 cd make-ai-work-for-you-resources
 ```
 
-Or open any file above on GitHub and use **Raw** or **Download** to save that file. The exercise can also be completed by reading the files in the browser; no model account, API key, or software installation is required.
+For a full ZIP without using Git, open the repository page and choose **Code → Download ZIP**. To save one item, open its link above and choose **Raw** or **Download**. The exercise can also be completed by reading the files in the browser; no model account, API key, or software installation is required.
 
 ## Use safely
 
